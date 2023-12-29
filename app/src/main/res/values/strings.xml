@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Tasker App</string>
+    <string name="route_main_screen">MainScreen</string>
+    <string name="route_add_task_screen">AddTaskScreen</string>
+    <string name="route_add_task_category_screen">AddCategoryScreen</string>
+    <string name="today">Today</string>
+
+    <string name="task">Task</string>
+    <string name="list">List</string>
+    <string name="cancel">Cancel</string>
+    <string name="done">Done</string>
+    <string name="text_what_do">What do you want to do?</string>
+    <string name="text_inbox">Inbox</string>
+    <string name="text_confirm">Confirm</string>
+
+    <string name="not_filled_text_field">Fill in all the fields</string>
+    <string name="not_filled_date">Select a date</string>
+    <string name="not_filled_time">Select a time</string>
+    <string name="not_selected_category">Select a category</string>
+</resources>
